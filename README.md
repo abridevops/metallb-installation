@@ -1,10 +1,10 @@
 # metallb-installation
 ---
 
-# Installing MetalLB load-balancer in On-Prem K8S cluster
+### Installing MetalLB load-balancer in On-Prem K8S cluster
 ==========================================================
 ---
-## Edit configmap for your cluster.  
+### Edit configmap for your cluster. 
 
 
 Change *strictARP* value from *true* to *false*
